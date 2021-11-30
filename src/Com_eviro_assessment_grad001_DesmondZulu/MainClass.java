@@ -1,10 +1,10 @@
 
-package bank;
+package Com_eviro_assessment_grad001_DesmondZulu;
 
 import java.math.BigDecimal;                                                                                                              
 import javax.swing.*; 
 
-public class Com_eviro_assessment_grad001_DesmondZulu {
+public class MainClass {
 
     
     public static void main(String[] args) {
